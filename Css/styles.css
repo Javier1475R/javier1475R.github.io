@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    color: #2a9d8f;
+  }
+  
+  #riddle {
+    font-size: 1.2em;
+    margin: 20px 0;
+  }
+  
+  input {
+    padding: 10px;
+    width: 80%;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    background: #2a9d8f;
+    color: #fff;
+    font-size: 1em;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background: #21867a;
+  }
+  
+  #feedback {
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
+  #level {
+    font-size: 1.2em;
+    margin-top: 10px;
+  }
+  
